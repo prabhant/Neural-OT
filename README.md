@@ -1,4 +1,4 @@
-# Neural-OT
+# Neural Optimal Transport Papers
 Articles and resources related to neural optimal transport (This is just for my personal use, i am only adding articles which i find useful for my research/interest)
 
 1. Meta optimal transport: https://arxiv.org/pdf/2206.05262.pdf code: https://github.com/facebookresearch/meta-ot
